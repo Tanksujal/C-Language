@@ -7,7 +7,7 @@ main(){
 	scanf("%d",&sa);
 
 	
-	ta = 180 - fa - sa;
+	ta = 180 - (fa + sa);
    
 	
 	printf("the value of third triangle angle is = %d",ta);
